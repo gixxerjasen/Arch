@@ -574,7 +574,7 @@ Softwares need to install:
 
 pacman -Sy       # synchronize repository databases if neccessary
 pacman -Syy      # force synchronization of repository databases
-pacman -         # update packages
+pacman -Su         # update packages
 
 pacman -Ss xyz   # search repository database for packages for xyz
 
